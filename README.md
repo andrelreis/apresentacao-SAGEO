@@ -4,4 +4,4 @@ Apresentação para a X Semana Acadêmica de Geologia organizada pela Faculdade 
 
 ## Licença
 
-Todo o conteúdo deste repositório está sob a licença...
+Todo o conteúdo deste repositório está sob a licença [BSD 3-Clause](https://github.com/andrelreis/apresentacao_SAGEO/blob/main/LICENSE).
